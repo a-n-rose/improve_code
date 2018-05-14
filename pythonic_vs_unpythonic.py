@@ -15,7 +15,7 @@ General notes:
     * be very comfortable with dictionaries (i.e. using keys, sorting with keys)
     * avoid indexing (i.e. use enumerate, iter, iteritems, zip etc.)
     * don't copy like crazy (slows code)
-    * make code understandable (w tuple unpacking vs indexing, printing labeled tuples, etc.
+    * make code understandable (w tuple unpacking vs indexing, printing labeled tuples, etc.)
 """
 
 ######################################
