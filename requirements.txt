@@ -1,0 +1,6 @@
+memory_profiler
+numpy
+matplotlib
+psutil
+ipython
+
