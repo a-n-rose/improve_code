@@ -1,10 +1,8 @@
 # Improving-Code
 
-* Notes on helpful tools to improve my code
-- see pythonic_vs_unpythonic.py
+* Notes on helpful tools to improve my code (pythonic_vs_unpythonic.py)
 
-* Functions helpful for making code more efficient
-- see speed_memory_compare.py
+* Functions helpful for making code more efficient (speed_memory_compare.py)
 
 ## Compare speed and memory
 
